@@ -1,0 +1,4 @@
+{
+  "glitchcode": "GLITCH",
+  "description": "NafgyzDev"
+}
